@@ -964,6 +964,16 @@ export default function ChiropractorDemoPage() {
             <p>
               This is a demo site created by Keyturn Studio for clinic website makeovers.
             </p>
+            <p className="mt-4">
+              <a
+                href="https://www.keyturn.studio/proof.html#clinic-demos"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-white transition-colors"
+              >
+                Back to all Keyturn clinic demos →
+              </a>
+            </p>
           </div>
         </div>
       </footer>
